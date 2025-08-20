@@ -196,18 +196,3 @@ Proje, [Open Library API](https://openlibrary.org/developers/api) kullanarak kit
 3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Pull Request açın
-
-## Lisans
-
-Bu proje eğitim amaçlıdır ve MIT lisansı altında dağıtılmaktadır.
-
-## İletişim
-
-Global AI Hub Python 202 Bootcamp Projesi
-- Proje Aşamaları: 3/3 ✅
-- Durum: Tamamlandı
-- Tarih: 2025
-
----
-
-**Not**: Bu proje Global AI Hub Python 202 Bootcamp gereksinimleri doğrultusunda geliştirilmiştir.
